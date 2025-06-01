@@ -1,3 +1,3 @@
-![budget_tracker_thumbnail](https://github.com/Kliton/budget_tracker/assets/10452377/cd88f35f-ae36-40b0-a12c-c2b263f6b732)
+![budget_tracker_thumbnail](./images/img1.png)
 
 
