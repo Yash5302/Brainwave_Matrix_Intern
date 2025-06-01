@@ -33,8 +33,15 @@ async function page() {
             <CreateTransactionDialog
               trigger={
                 <Button
-                  variant={"outline"}
-                  className="border-emerald-500 bg-emerald-950 text-white hover:bg-emerald-700 hover:text-white"
+                  variant="outline"
+                  className="border-emerald-500 
+             text-white 
+             bg-emerald-500 
+             hover:bg-emerald-600 
+             hover:text-white
+             dark:bg-emerald-950 
+             dark:hover:bg-emerald-700 
+             dark:text-white"
                 >
                   New income 🤑
                 </Button>
@@ -45,11 +52,18 @@ async function page() {
             <CreateTransactionDialog
               trigger={
                 <Button
-                  variant={"outline"}
-                  className="border-rose-500 bg-rose-950 text-white hover:bg-rose-700 hover:text-white"
-                >
-                  New expense 😤
-                </Button>
+                variant="outline"
+                className="border-rose-500 
+                           text-white 
+                           bg-rose-500 
+                           hover:bg-rose-600 
+                           hover:text-white
+                           dark:bg-rose-950 
+                           dark:hover:bg-rose-700 
+                           dark:text-white"
+              >
+                New expense 😤
+              </Button>
               }
               type="expense"
             />
