@@ -14,7 +14,7 @@ The design is fully responsive and optimized for both **light and dark modes**.
 ### 📸 Dashboard Preview
 
 ![budget_tracker_thumbnail](./images/img1.png)
-## 📅 Transaction History with Graph
+## 📅 History with Graph
 
 The **History** section provides a detailed and visual representation of all transactions over time.
 
@@ -29,3 +29,38 @@ This section helps users stay on top of their financial habits and make informed
 ### 📸 History Graph Preview
 
 ![history_graph_preview](./images/img2.png)
+## 🧾 Detailed Transactions History
+
+The **Transactions** section provides a tabular view of all your financial activities — both incomes and expenses — with clear categorization and filtering options.
+
+### 📌 Key Features:
+- **Category & Type Filters**: Instantly filter transactions by category (e.g., food, salary) and type (income or expense).
+- **Searchable & Sortable Table**: Sort transactions by date, type, or amount.
+- **Date Range Picker**: Choose a custom time range (e.g., `Jun 1, 2025 - Jun 1, 2025`) to filter results accordingly.
+- **Export Option**: Download all transactions in **CSV format** for offline tracking and backup.
+- **Clean UI**: Distinct visual tags for **Income** (green) and **Expense** (red) for clarity.
+
+This section ensures transparency and gives users full control and visibility over their financial records.
+
+### 🖼️ Transaction Table Preview
+
+![transaction_table](./images/img3.png)
+
+## ⚙️ Manage Settings & Categories
+
+The **Manage** section allows users to personalize their expense tracker by configuring the default currency and organizing their transaction categories.
+
+### 🌍 Currency Settings
+- Set your **default transaction currency** (e.g., ₹ Rupees) for consistent budgeting across the app.
+
+### 🧩 Custom Categories
+Organize your finances better by grouping transactions into meaningful **income** and **expense categories**:
+- ✅ **Create new categories** as needed.
+- 🗑️ **Remove existing ones** with one click.
+- 🔤 Categories are **sorted alphabetically** for easy navigation.
+
+This page ensures that users maintain clarity and control over their financial categorization.
+
+### 🖼️ Manage Screen Preview
+
+![manage_categories](./images/img4.png)
