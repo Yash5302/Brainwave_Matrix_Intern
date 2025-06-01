@@ -14,3 +14,4 @@ The design is fully responsive and optimized for both **light and dark modes**.
 ### 📸 Dashboard Preview
 
 ![budget_tracker_thumbnail](./images/img1.png)
+![budget_tracker_thumbnail](./images/img2.png)
