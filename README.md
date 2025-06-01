@@ -64,3 +64,14 @@ This page ensures that users maintain clarity and control over their financial c
 ### 🖼️ Manage Screen Preview
 
 ![manage_categories](./images/img4.png)
+
+---
+
+## 🙏 Thank You!
+
+Thank you for checking out my **Expense Tracker App**!  
+I hope you find it useful and inspiring.
+
+If you have any feedback, suggestions, or just want to connect, feel free to reach out:
+
+📩 **Email:** [yaxsh8238@gmail.com](mailto:yaxsh8238@gmail.com)
