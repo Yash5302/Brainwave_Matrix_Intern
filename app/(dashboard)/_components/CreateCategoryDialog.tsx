@@ -182,7 +182,9 @@ function CreateCategoryDialog({ type, successCallback, trigger }: Props) {
                           )}
                         </Button>
                       </PopoverTrigger>
-                      <PopoverContent className="w-full">
+                      <PopoverContent className="w-full"
+                       sideOffset={-120} // <-- increase this to move it further down
+                       align="center">
                         <Picker
                           data={data}
                           theme={theme.resolvedTheme}
